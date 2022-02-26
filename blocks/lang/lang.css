@@ -1,6 +1,0 @@
-.lang {
-  font-size: 24px;
-}
-.lang:not(:last-child) {
-  margin-right: 18px;
-}

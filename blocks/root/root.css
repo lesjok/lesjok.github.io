@@ -1,8 +1,14 @@
 .root {
   background-color: #2A2C2F;
+  margin: 0;
+  box-sizing: border-box;
   color: #fff;
   font-family: 'Inter', Arial, sans-serif;
-  margin: 0 auto;
   padding-left: 48px;
   padding-right: 48px;
+}
+@media screen and (max-width: 1024px) {
+  .root {
+    padding: 0;
+  } 
 }

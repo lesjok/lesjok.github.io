@@ -9,4 +9,4 @@
 
 Планируется добавление формы обратной связи.
 ## Ссылка на проект
-* [Ссылка на проект](https://lesjok.github.io/russian-travel/)
+* [Путешествия по России](https://lesjok.github.io/russian-travel/)

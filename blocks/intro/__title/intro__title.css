@@ -4,7 +4,7 @@
   padding-bottom: 40px;
   line-height: 1.07;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
   .intro__title {
     font-size: 32px;
     line-height: 1.09;

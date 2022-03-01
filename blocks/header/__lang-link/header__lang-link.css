@@ -2,9 +2,15 @@
   font-size: 24px;
   text-decoration: none;
   color: inherit;
-  
+  line-height: 1.17; 
 }
 .header__lang-link:not(:last-child) {
   margin-right: 18px;
   border-bottom: 2px solid #fff;
+}
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  } 
 }

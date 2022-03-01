@@ -7,13 +7,9 @@
   grid-column-gap: 40px;
   grid-row-gap: 48px;
 }
-
 @media screen and (max-width: 768px) {
   .place {
     grid-column-gap: 28px;
-  }
-  .place:first-child .place__title:first-child {
-    max-width: 300px;
   }
 }
 @media screen and (max-width: 700px) {
@@ -23,9 +19,7 @@
   } 
 }
 @media screen and (max-width: 320px) {
-  .place {
-    display: flex;
-    flex-direction: column;   
+  .place { 
     gap: 32px;
   } 
 }

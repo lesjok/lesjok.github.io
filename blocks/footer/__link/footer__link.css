@@ -1,8 +1,6 @@
 .footer__link {
   color: #fff;
   text-decoration: none;
-}
-.footer__link {
   margin-right: 18px;
 }
 @media screen and (max-width: 320px) {

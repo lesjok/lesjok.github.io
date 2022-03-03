@@ -6,7 +6,6 @@
 }
 .header__lang-link:not(:last-child) {
   margin-right: 18px;
-  border-bottom: 2px solid #fff;
 }
 @media screen and (max-width: 320px) {
   .header__lang-link {
